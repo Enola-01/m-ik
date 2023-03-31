@@ -1,0 +1,22 @@
+{
+  "name": "muzik_bot",
+  "main": "dark.js",
+  "author": "",
+  "description": "",
+  "scripts": {
+    "start": "node dark.js"
+  },
+  "dependencies": {
+    "discord-player": "^5.1.0",
+    "discord.js": "^13.1.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "install": "^0.13.0",
+    "ms": "^3.0.0-canary.1",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.11.3"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
